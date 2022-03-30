@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d46a7d6334725f1488a0cabee018cef7, type: 3}
+  m_Name: DeadPool
+  m_EditorClassIdentifier: 
+  iconHorn: {fileID: 21300000, guid: af703fd7f43f2014e9385733c65f07d9, type: 3}
+  prefabsHorn: {fileID: 0}
+  priceHorn: 16
+  rangeAddHorn: 2
+  materialFullSet: {fileID: 2100000, guid: 985804f26801ad04dabe3d58f78fe093, type: 2}
+  prefabsWing: {fileID: 1911642261386338278, guid: 08d79d0cb9c94744c97e3183347a301c, type: 3}
+  prefabsPan: {fileID: 0}
+  prefabsShield: {fileID: 0}
+  materialPan: {fileID: 2100000, guid: 985804f26801ad04dabe3d58f78fe093, type: 2}
+  nameGroup: Skin
+  nameItem: 16

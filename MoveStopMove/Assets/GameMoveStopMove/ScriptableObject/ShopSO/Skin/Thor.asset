@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d46a7d6334725f1488a0cabee018cef7, type: 3}
+  m_Name: Thor
+  m_EditorClassIdentifier: 
+  iconHorn: {fileID: 21300000, guid: e52925af4b207104194021f29b5a7ec0, type: 3}
+  prefabsArrow: {fileID: 0}
+  prefabsHead: {fileID: 5750772907684502068, guid: 6538686be7dc15c4ebbd2eeb6cc0e9c3, type: 3}
+  priceHorn: 17
+  rangeAddHorn: 2
+  materialFullSet: {fileID: 2100000, guid: 1dbf9e8ac4d65344fa0a47e68bbd05cf, type: 2}
+  prefabsWing: {fileID: 0}
+  prefabsPan: {fileID: 0}
+  prefabsShield: {fileID: 0}
+  prefabsTail: {fileID: 0}
+  prefabsBeard: {fileID: 0}
+  materialPan: {fileID: 2100000, guid: 9e7753b01019fef47a97325e635d7316, type: 2}
+  nameGroup: Skin
+  nameItem: 17

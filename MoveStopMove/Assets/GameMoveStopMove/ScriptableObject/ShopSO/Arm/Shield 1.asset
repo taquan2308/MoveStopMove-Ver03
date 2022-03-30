@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d46a7d6334725f1488a0cabee018cef7, type: 3}
+  m_Name: Shield 1
+  m_EditorClassIdentifier: 
+  iconHorn: {fileID: 21300000, guid: ec2fe2cf2fc40c340ae94c5e2483c855, type: 3}
+  prefabsHorn: {fileID: 3235024793252446696, guid: a12157316809f9d44bf6783518eb521a, type: 3}
+  priceHorn: 14
+  rangeAddHorn: 2
+  materialFullSet: {fileID: 0}
+  prefabsWing: {fileID: 0}
+  prefabsPan: {fileID: 0}
+  prefabsShield: {fileID: 7032953197500166349, guid: ef1661a302eb0b542bb0c85efd9626d0, type: 3}
+  materialPan: {fileID: 0}
+  nameGroup: Arm
+  nameItem: 14
